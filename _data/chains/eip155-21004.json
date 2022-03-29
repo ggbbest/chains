@@ -1,0 +1,18 @@
+{
+  "name": "C4EI Mainnet",
+  "chain": "C4EI",
+  "rpc": [
+    "http://rpc.c4ei.net"
+  ],
+  "faucets": [
+  ],
+  "nativeCurrency": {
+    "name": "C4EI",
+    "symbol": "C4EI",
+    "decimals": 18
+  },
+  "infoURL": "https://www.c4ei.net/",
+  "shortName": "c4ei",
+  "chainId": 21004,
+  "networkId": 21004
+}
